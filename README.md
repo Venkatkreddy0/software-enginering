@@ -7,7 +7,7 @@ This program finds "near misses" for Fermat's Last Theorem for the equation \( x
 
 1. **Clone the repository**:
     ```bash
-    git clone 
+    git clone https://github.com/Venkatkreddy0/software-enginering.git
     ```
 
 2. **(Optional) Create an executable**:
